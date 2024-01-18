@@ -6,7 +6,7 @@
   user-select: none;
 }
 .bg-img{
-  background: url('images\\forest-4253766_960_720.jpg');
+  background: url('images\\forest-4253766_960_720.jpg');/*here add your backgrornd image*/
   height: 100vh;
   background-size: cover;
   background-position: center;
